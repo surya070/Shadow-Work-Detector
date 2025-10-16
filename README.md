@@ -2,7 +2,7 @@
 
 *AI-powered analytics to make invisible teamwork visible.*
 
-## 📖 Overview
+## Overview
 
 **Shadow Work** is an AI system designed to uncover *invisible contributions* in team environments — such as reminders, emotional support, and coordination — that often go unrecognized in traditional productivity metrics.  
 
@@ -10,14 +10,14 @@ By analyzing communication data using **Natural Language Processing (NLP)** and 
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 In group projects and workplaces, many valuable contributions remain unseen — organizing meetings, resolving conflicts, offering motivation, and maintaining morale.  
 Traditional metrics track only tangible outputs, leaving “shadow work” invisible.
 
 ---
 
-## 💡 Objective
+## Objective
 
 To build an **AI-driven system** that:
 - Detects hidden labor types (reminders, coordination, emotional support).
@@ -27,7 +27,7 @@ To build an **AI-driven system** that:
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 ```mermaid
 graph LR
@@ -39,7 +39,6 @@ graph LR
 ```
 
 ### Quick start (local)
-
 1. Create a Python venv
 2. Install dependencies
 3. Start the backend (Flask)
@@ -66,6 +65,7 @@ Terminal - 2
    ```
 
 Streamlit UI usually opens at http://localhost:8501.
+
 
 
 

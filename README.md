@@ -2,6 +2,8 @@
 
 *AI-powered analytics to make invisible teamwork visible.*
 
+---
+
 ## Overview
 
 **Shadow Work** is an AI system designed to uncover *invisible contributions* in team environments — such as reminders, emotional support, and coordination — that often go unrecognized in traditional productivity metrics.  
@@ -65,6 +67,7 @@ Terminal - 2
    ```
 
 Streamlit UI usually opens at http://localhost:8501.
+
 
 
 

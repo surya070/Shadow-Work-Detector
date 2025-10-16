@@ -32,11 +32,11 @@ To build an **AI-driven system** that:
 ``` mermaid
 
 graph LR
-A[Chat Logs / Emails / Transcripts] --> B[Text Preprocessing]
-B --> C[NLP + Sentiment Analysis (DistilBERT)]
-C --> D[Intent Classification (Rule-based / ML Model)]
-D --> E[Shadow Work Scoring Engine]
-E --> F[Visualization Dashboard (Streamlit)]
+   A[Chat Logs / Emails / Transcripts] --> B[Text Preprocessing]
+   B --> C[NLP + Sentiment Analysis (DistilBERT)]
+   C --> D[Intent Classification (Rule-based / ML Model)]
+   D --> E[Shadow Work Scoring Engine]
+   E --> F[Visualization Dashboard (Streamlit)]
 ```
 
 ### Quick start (local)
@@ -67,6 +67,7 @@ Terminal - 2
    ```
 
 Streamlit UI usually opens at http://localhost:8501.
+
 
 
 

@@ -10,7 +10,7 @@ Prototype that analyzes team communications and surfaces "shadow work" contribut
    python -m venv venv
    venv\Scripts\activate
 
-2.Install dependencies:
+2. Install dependencies:
 
 pip install -r requirements.txt
 
@@ -27,6 +27,7 @@ python app.py
 
 cd shadow-work/dashboard
 streamlit run dashboard.py
+
 
 
 Streamlit UI usually opens at http://localhost:8501.

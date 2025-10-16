@@ -29,8 +29,7 @@ To build an **AI-driven system** that:
 
 ## 🧩 System Architecture
 
-``` mermaid
-
+```mermaid
 graph LR
    A[Chat Logs / Emails / Transcripts] --> B[Text Preprocessing]
    B --> C[NLP + Sentiment Analysis (DistilBERT)]
@@ -67,6 +66,7 @@ Terminal - 2
    ```
 
 Streamlit UI usually opens at http://localhost:8501.
+
 
 
 

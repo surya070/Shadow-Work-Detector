@@ -15,15 +15,25 @@ Prototype that analyzes team communications and surfaces "shadow work" contribut
 
 5. In another terminal, start the dashboard
 
+Terminal - 1
+
    ```bash
       python -m venv venv
       venv\Scripts\activate
       pip install -r requirements.txt
       cd shadow-work/backend
       python app.py
-      cd ..
+   ```
+
+Terminal - 2
+
+   ```bash
+      python -m venv venv
+      venv\Scripts\activate
       cd shadow-work/dashboard
       streamlit run dashboard.py
+   ```
 
 Streamlit UI usually opens at http://localhost:8501.
+
 

@@ -36,7 +36,7 @@ graph LR
    C --> D[Intent Classification (Rule-based / ML Model)]
    D --> E[Shadow Work Scoring Engine]
    E --> F[Visualization Dashboard (Streamlit)]
-
+```
 
 ### Quick start (local)
 
@@ -66,6 +66,7 @@ Terminal - 2
    ```
 
 Streamlit UI usually opens at http://localhost:8501.
+
 
 
 
